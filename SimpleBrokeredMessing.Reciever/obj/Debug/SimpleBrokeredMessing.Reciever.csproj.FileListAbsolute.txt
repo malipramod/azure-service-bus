@@ -1,0 +1,15 @@
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\SimpleBrokeredMessing.Reciever.exe.config
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\SimpleBrokeredMessing.Reciever.exe
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\SimpleBrokeredMessing.Reciever.pdb
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\Microsoft.Azure.Services.AppAuthentication.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\obj\Debug\SimpleBrokeredMessing.Reciever.exe
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Reciever\obj\Debug\SimpleBrokeredMessing.Reciever.pdb

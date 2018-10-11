@@ -1,0 +1,16 @@
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\SimpleBrokeredMessing.Sender.exe.config
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\SimpleBrokeredMessing.Sender.exe
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\SimpleBrokeredMessing.Sender.pdb
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\Microsoft.Azure.Services.AppAuthentication.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\obj\Debug\SimpleBrokeredMessing.Sender.csprojResolveAssemblyReference.cache
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\obj\Debug\SimpleBrokeredMessing.Sender.exe
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.Sender\obj\Debug\SimpleBrokeredMessing.Sender.pdb

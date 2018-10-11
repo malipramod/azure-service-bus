@@ -1,0 +1,16 @@
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\ServiceBusManagementConsole.exe.config
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\ServiceBusManagementConsole.exe
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\ServiceBusManagementConsole.pdb
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\Microsoft.Azure.Services.AppAuthentication.xml
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\obj\Debug\ServiceBusManagementConsole.csprojResolveAssemblyReference.cache
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\obj\Debug\ServiceBusManagementConsole.exe
+C:\Users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\ServiceBusManagementConsole\obj\Debug\ServiceBusManagementConsole.pdb

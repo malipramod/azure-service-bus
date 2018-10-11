@@ -1,0 +1,16 @@
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\SimpleBrokeredMessing.ChatConsole.exe.config
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\SimpleBrokeredMessing.ChatConsole.exe
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\SimpleBrokeredMessing.ChatConsole.pdb
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\obj\Debug\SimpleBrokeredMessing.ChatConsole.csprojResolveAssemblyReference.cache
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\obj\Debug\SimpleBrokeredMessing.ChatConsole.exe
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\obj\Debug\SimpleBrokeredMessing.ChatConsole.pdb
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\Microsoft.Azure.Services.AppAuthentication.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\pmali\documents\visual studio 2017\Projects\SimpleBrokeredMessing.ChatConsole\SimpleBrokeredMessing.ChatConsole\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
