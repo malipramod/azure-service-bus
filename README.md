@@ -16,3 +16,6 @@ Azure Service Bus demos
 
 # More info: 
     https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-create-namespace-portal
+
+
+![capture](https://user-images.githubusercontent.com/13375870/46805981-05b62380-cd84-11e8-98da-feac1168c7cd.PNG)
